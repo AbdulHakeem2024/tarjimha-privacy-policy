@@ -1,6 +1,6 @@
 **Privacy Policy for Tarjimha**
 
-**Effective Date:** [4-11-2024]
+**Effective Date:** 4-11-2024
 
 Thank you for using Tarjimha. This Privacy Policy outlines our commitment to protecting your privacy. Tarjimha is designed to provide a secure translation experience without collecting any personal information from its users.
 
@@ -43,7 +43,7 @@ We may update this Privacy Policy as needed. Any changes will be reflected here,
 ### 6. Contact Us
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:  
-**Email:** [abdulhakeemshahok@gmail.com]
+**Email:** abdulhakeemshahok@gmail.com
 
 ---
 
